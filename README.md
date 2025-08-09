@@ -14,3 +14,8 @@ I decided I'm just gonna keep randomly dropping things in here for people to see
 8/8/25 but like significantly later
 
 I made another qr code. this one points to its own exact gps coordinates. I might go there and leave something idk it's pretty far west
+
+8/9/25
+
+![am i an indie dev now](itch_charts.png)
+[damn is this how you do marketing]
