@@ -18,4 +18,5 @@ I made another qr code. this one points to its own exact gps coordinates. I migh
 8/9/25
 
 ![am i an indie dev now](itch_charts.png)
-[damn is this how you do marketing]
+---
+*damn is this how you do marketing*
