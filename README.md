@@ -20,3 +20,10 @@ I made another qr code. this one points to its own exact gps coordinates. I migh
 ![am i an indie dev now](itch_charts.png)
 ---
 *damn is this how you do marketing*
+
+## WALL OF SHAME
+Here's a list of every person who fucked up my qr code
+![CurlyChair#8030441](curlychair.png)
+- CurlyChair aka ccnecromancer
+![ManWithAShoe](manwithashoe.png)
+- ManWithAShoe
